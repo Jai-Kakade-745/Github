@@ -1,0 +1,3 @@
+# clone command - cloning a repository on your local machine
+git clone <link>
+write this in vs code to clone a repository . paste the link of Https
